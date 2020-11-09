@@ -1,0 +1,3 @@
+[submodule "refind/themes/rEFInd-minimal"]
+	path = refind/themes/rEFInd-minimal
+	url = git@github.com:eathtespagheti/rEFInd-minimal.git
